@@ -97,7 +97,7 @@ Cuando no estoy programando, probablemente me encuentres leyendo un buen libro, 
 ### ⚡ Intereses personales
 
 - 📚 Lectura (especialmente novelas de ciencia ficción, desarrollo personal y finanzas)
-- 🎮 Videojuegos (¡pregúntame por mis favoritos!)
+- 🎮 Videojuegos y TCG (¡pregúntame por mis favoritos!)
 - 🐱 Amante de los gatos
 - 🧩 Resolver puzzles y LEGO
 - 💻 Explorar nuevas tecnologías
