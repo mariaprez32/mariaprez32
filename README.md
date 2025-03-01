@@ -89,7 +89,7 @@ Cuando no estoy programando, probablemente me encuentres leyendo un buen libro, 
 
 - 💼 Abierta a oportunidades laborales como desarrolladora web full stack.
 - 🤔 Buscando mentoría en desarrollo web avanzado y Salesforce.
-- 💬 Pregúntame sobre mi experiencia aprendiendo programación o sobre mi gata. 🐱
+- 💬 Pregúntame sobre mi experiencia aprendiendo programación o sobre mi gata.
 - 📬 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/mariaprez/) o por [email](mailto:maria.alejandrapt@gmail.com).
 
 ---
